@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+li{
+    display:inline;
+    padding-left: 3px;
+    padding-right: 3px;
+    
+}
+
+.card{
+    height: 480px;
+    margin-top: 120px;
+    margin-bottom: auto;
+    margin-left: 300px;
+    width: 400px;
+    background-color: rgba(0,0,0,0.5) !important;
+    color: white; 
+    font-family: 'Numans', sans-serif !important;
+    } 
+
+
+a{
+    padding-top: 10px;
+    padding-left: 70px;
+    color: white;
+    font-family: 'Numans', sans-serif !important;
+    font-size: 20px;
+    }
