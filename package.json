@@ -22,7 +22,7 @@
     "single-spa-react": "^2.10.2",
     "single-spa-vue": "^1.4.0",
     "vue": "^2.6.10",
-    "vuetify": "^2.2.18"
+    "vuetify": "^2.6.10"
   },
   "scripts": {
     "start": "webpack-dev-server --open",
